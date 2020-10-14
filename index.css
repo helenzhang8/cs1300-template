@@ -146,6 +146,10 @@ ol {
   background-color: #9d0208;
 }
 
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
 .small_image{
   max-width: 20vmin;
   max-height: auto;
